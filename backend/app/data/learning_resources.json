@@ -1,0 +1,12 @@
+{
+  "Python": [{"title": "The Python Tutorial", "url": "https://docs.python.org/3/tutorial/", "is_free": true}],
+  "JavaScript": [{"title": "MDN JavaScript Guide", "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide", "is_free": true}],
+  "TypeScript": [{"title": "TypeScript Handbook", "url": "https://www.typescriptlang.org/docs/handbook/intro.html", "is_free": true}],
+  "React": [{"title": "React Learn", "url": "https://react.dev/learn", "is_free": true}],
+  "SQL": [{"title": "SQLBolt interactive lessons", "url": "https://sqlbolt.com/", "is_free": true}],
+  "Git": [{"title": "Git Book", "url": "https://git-scm.com/book/en/v2", "is_free": true}],
+  "HTML": [{"title": "MDN HTML Guide", "url": "https://developer.mozilla.org/en-US/docs/Learn/HTML", "is_free": true}],
+  "CSS": [{"title": "MDN CSS Guide", "url": "https://developer.mozilla.org/en-US/docs/Learn/CSS", "is_free": true}],
+  "Figma": [{"title": "Figma Learn", "url": "https://help.figma.com/hc/en-us/categories/360002051613-Learn-design", "is_free": true}],
+  "Data visualization": [{"title": "Data Visualization with Python", "url": "https://matplotlib.org/stable/tutorials/index.html", "is_free": true}]
+}

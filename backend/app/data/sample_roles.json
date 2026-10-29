@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Junior Frontend Developer",
+    "skills": ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Git", "Accessibility"],
+    "advantageous": ["Testing", "REST APIs"],
+    "alternatives": ["Web Development Intern", "UI Developer Intern"]
+  },
+  {
+    "title": "Junior Data Analyst",
+    "skills": ["SQL", "Python", "Excel", "Data visualization", "Statistics", "Communication"],
+    "advantageous": ["Power BI", "Tableau"],
+    "alternatives": ["Data Analyst Intern", "Reporting Analyst"]
+  },
+  {
+    "title": "Junior Python Developer",
+    "skills": ["Python", "Git", "SQL", "REST APIs", "Testing", "Problem solving"],
+    "advantageous": ["FastAPI", "Docker"],
+    "alternatives": ["Python Developer Intern", "Software Engineer Intern"]
+  },
+  {
+    "title": "UI/UX Designer",
+    "skills": ["Figma", "Prototyping", "Wireframing", "User research", "Accessibility", "Communication"],
+    "advantageous": ["Usability testing", "Design systems"],
+    "alternatives": ["Product Design Intern", "Visual Designer"]
+  }
+]
